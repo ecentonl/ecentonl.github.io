@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecentonl.github.io/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/app/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/assets/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/css/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/data/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/includes/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/item/sitemap.ecentonl.gz
+Sitemap: https://ecentonl.github.io/src/sitemap.ecentonl.gz
